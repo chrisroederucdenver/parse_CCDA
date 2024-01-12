@@ -5,6 +5,11 @@ https://github.com/HL7/CDA-core-2.1/tree/master/schemas/normative
 
 https://github.com/HL7/cda-core-2.1
 
+"trying to create the same field twice: id"
+https://www.igorkromin.net/index.php/2015/11/13/fixing-the-cda-schema-compilation-with-xjc-using-a-bindings-file/
+
+and where to put the jaxb.bindings file in eclipse
+https://stackoverflow.com/questions/12497535/jaxb-custom-binding-with-eclipse:wq
 
 XSD files required on stack overflow: https://stackoverflow.com/questions/21835607/identifying-hl7-v3-schemas-for-cda-r2/21838668
 
