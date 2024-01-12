@@ -22,3 +22,5 @@ XSD files required on stack overflow: https://stackoverflow.com/questions/218356
   - https://stackoverflow.com/questions/686453/generate-java-classes-from-xsd-files
 
 
+Scripts to run jaxb/xjc in src/main/resources, including use of a jaxb.bindings file to fix that "id" problem.
+
